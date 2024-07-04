@@ -1,5 +1,4 @@
 # HTML   Notes
-![1](https://github.com/Amitkumar0054/HTML/assets/128821680/f181bcca-9f45-47e6-beda-5356498ac1b9)
 
                                                                  
 
@@ -44,7 +43,8 @@ structure of websites are called HTML tags.
 - Step 2:- click on the first link.
   
   - VsCode Download :-
-  ![image](vs.jpg)
+  ![vs](https://github.com/Amitkumar0054/HTML/assets/128821680/73206f39-def8-4382-a62b-87852b84cbe3)
+
   
 
 
@@ -65,7 +65,8 @@ structure of websites are called HTML tags.
 
 
 
-   ![alt text](1.jpg)
+   ![1](https://github.com/Amitkumar0054/HTML/assets/128821680/f181bcca-9f45-47e6-beda-5356498ac1b9)
+
 
 - Step 6:- Create a new file.
 ![alt text](30.jpg)
