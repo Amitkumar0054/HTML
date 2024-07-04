@@ -69,8 +69,7 @@ structure of websites are called HTML tags.
 
 
 - Step 6:- Create a new file.
-![alt text](30.jpg)
-<br>
+
 
 # First Html File
 
