@@ -113,7 +113,7 @@ structure of websites are called HTML tags.
 - This is part of code that should not be parsed.
 -        <!-- This is an HTML Comment -->
 
-#  HTML is NOT case sensitive
+#  HTML is not case sensitive
 
                        <html> = <HTML>
                         <p> = <P>
