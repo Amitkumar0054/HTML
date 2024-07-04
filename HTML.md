@@ -53,11 +53,11 @@ structure of websites are called HTML tags.
 - Step 5:- Check if the system up-to-date using following command :
 
     
-                $ sudo apt-get update
+                $ sudo apt update
 - Step 6. After update system Now you can Install VS Code using the following command:
 
   
-           $ sudo apt install vscode .
+           $ sudo apt install vscode 
 
 - Step 6. Open VS Code.          
 
@@ -87,46 +87,51 @@ structure of websites are called HTML tags.
          This is a paragraph ---> Content   
 # Basic HTML Page
               
-                 <!DOCTYPE html>       tells browser you are using HTML5
-                    <html>            root of an html document
+                 <!DOCTYPE html>                       tells browser you are using HTML5
+                    <html>                             root of an html document
                        <head>
-                                            container for metadata
+                                                       container for metadata
                       <title>My First Page</title>
-                                                     page title
-                            </head>
+                                                       page title
+                        </head>
                              < body>
                                 <p>hello world</p>
-                                   </body>
-                              </html>
-                                                    contains all data rendered by the browser
-                        paragraph tag
+                              </body>
+                     </html>
+                                                      contains all data rendered by the browser
+                                                   
 
 #  Quick Points
 
 - Html tag is parent of head & body tag
 - Most of html elements have opening & closing tags
-- with content in between
-- Some tags have no content in between, eg - <br>
 - We can use inspect element/view page source to edit html
 
 
 
 #  Comments in HTML
 - This is part of code that should not be parsed.
-          <!-- This is an HTML Comment -->
+-        <!-- This is an HTML Comment -->
 
 #  HTML is NOT case sensitive
 
                        <html> = <HTML>
                         <p> = <P>
-                          <head> = <HEAD>
-                              <body> = <BODY>
+                       <head> = <HEAD>
+                       <body> = <BODY>
 
 #     Basic HTML Tags      
 
-- HTML Attributes
-- Attributes are used to add more information to the tag
-                                     <html lang="en">
+- `<html>`: Defines the root of an HTML document.
+- `<head>`: Contains metadata about the document, like its title.
+- `<title>`: Sets the title displayed in the browser tab.
+- `<body>`: Encloses the main content visible on the web page.
+- `<h1>` to `<h6>`: Headings of varying sizes.
+- `<p>`: Paragraphs of text.
+- `<a>`: Creates hyperlinks to other web pages or resources.
+- `<img>`: Embeds images into the page.
+- `<ul>` and `<ol>`: Create unordered and ordered lists, respectively.
+
 
 #  Heading Tag
 - Used to display headings in HTML
