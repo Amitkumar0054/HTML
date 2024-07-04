@@ -1,5 +1,5 @@
 # HTML   Notes
-![image](html.jpg)
+![1](https://github.com/Amitkumar0054/HTML/assets/128821680/f181bcca-9f45-47e6-beda-5356498ac1b9)
 
                                                                  
 
