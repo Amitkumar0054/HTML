@@ -81,22 +81,22 @@ structure of websites are called HTML tags.
 # HTML Tag            
 - A container for some content or other HTML tags
 
-           p> This is a paragraph </p>
+           <p> This is a paragraph </p>
             Note Point
             p   ----> Element
          This is a paragraph ---> Content   
 # Basic HTML Page
               
-                 <!DOCTYPE html>                       tells browser you are using HTML5
+           <!DOCTYPE html>                       tells browser you are using HTML5
                     <html>                             root of an html document
-                       <head>
-                                                       container for metadata
+                      <head>
+                                                       
                       <title>My First Page</title>
                                                        page title
-                        </head>
-                             < body>
+                      </head>
+                            < body>
                                 <p>hello world</p>
-                              </body>
+                            </body>
                      </html>
                                                       contains all data rendered by the browser
                                                    
