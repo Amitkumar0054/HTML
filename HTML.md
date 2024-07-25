@@ -233,8 +233,7 @@ structure of websites are called HTML tags.
    </select>       
 
 # Conclusion 
-  - In conclusion, this document has highlighted the key aspects of our project, including its objectives, methodology, and significant findings. Through rigorous analysis and collaborative efforts, we have achieved our goals and provided valuable insights. The implications of our results extend beyond the immediate scope, suggesting avenues for future research and practical applications. We are confident that our work will contribute meaningfully to the field and serve as a foundation for ongoing innovation. Thank you for your time and consideration. We look forward to any questions or discussions regarding our work.   
-
+  - HTML (HyperText Markup Language) is the standard language used to create web pages. It uses a system of tags to define elements like text, images, links, and forms, which browsers then render to display web content to users. In essence, HTML provides the structure for web pages, making it an essential skill for web development.
 # Reference Link  
 <https://www.w3schools.com/html/>
 
