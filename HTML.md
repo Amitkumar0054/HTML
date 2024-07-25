@@ -57,12 +57,10 @@ structure of websites are called HTML tags.
 - Step 6. After update system Now you can Install VS Code using the following command:
 
   
-           $ sudo apt install vscode 
+ sudo dpkg -i location of package.  (Find location from ls command. after this VsCode installed successfully)
 
+ 
 - Step 6. Open VS Code.          
-
-
-
 
 
    ![1](https://github.com/Amitkumar0054/HTML/assets/128821680/f181bcca-9f45-47e6-beda-5356498ac1b9)
