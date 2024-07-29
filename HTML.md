@@ -227,9 +227,9 @@ structure of websites are called HTML tags.
 
 # Select
    <select name="city" id="city">
-      <option value="Delhi"> Delhi </option>
-      <option value="Mumbai"> Delhi </option>
-      <option value="Banglore"> Delhi </option>
+      <option value="Delhi"> </option>
+      <option value="Mumbai">  </option>
+      <option value="Banglore">  </option>
    </select>       
 
 # Conclusion 
