@@ -225,7 +225,7 @@ structure of websites are called HTML tags.
          </tr>
       </table>
 
- Select
+ 
    <select name="city" id="city">
       <option value="Delhi"> </option>
       <option value="Mumbai">  </option>
