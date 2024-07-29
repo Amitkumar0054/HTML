@@ -27,7 +27,7 @@
 21. [Div Tag](#div-tag)
 22. [List Div Tags](#list-div-tags)
 23. [Tables in HTML](#tables-in-html)
-24. [Select](#select)
+    
 
 # What Is HTML
  >Hyper Text Markup Language
